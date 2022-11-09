@@ -10,5 +10,5 @@
 # https://code.visualstudio.com/download
 
 # Repositorio de la clase
-https://github.com/canay94/tecnologias_emergentes
+# https://github.com/canay94/tecnologias_emergentes
 
