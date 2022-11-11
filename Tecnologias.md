@@ -31,3 +31,16 @@ _ITSSLPC-ISC_
    - phpinfo
     - localhost/tecnologias/phpinfo.php
 
+
+
+
+
+
+## Contacto
+
+⌨️ Con ❤️ por Alejandro César Rico Martínez - [@canay94](https://twitter.com/canay94)
+
+[alejandro.rico@tecsuperiorslp.edu.mx](mailto:alejandro.rico@tecsuperiorslp.edu.mx?subject=Saludos "Hi!")
+
+
+![itsslpc](images/logo_azul_2.png)
