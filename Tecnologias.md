@@ -31,7 +31,8 @@ _ITSSLPC-ISC_
    - phpinfo
     - localhost/tecnologias/phpinfo.php
 
-
+# Test
+[Práctica 1](https://www.mysqltutorial.org/php-connecting-to-mysql-database/)
 
 
 
