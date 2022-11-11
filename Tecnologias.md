@@ -17,7 +17,7 @@ _ITSSLPC-ISC_
 
 ## Repositorio de la clase
 
-- [Tecnologías Emergentes](https://github.com/canay94/tecnologias_emergentes
+- [Tecnologías Emergentes](https://github.com/canay94/tecnologias_emergentes)
 
 # Apuntes de la clase 10/11/2022
 
