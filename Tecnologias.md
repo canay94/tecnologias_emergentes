@@ -41,7 +41,9 @@ conexión a la Base de Datos.
 [Práctica 1](https://www.mysqltutorial.org/php-connecting-to-mysql-database/)
 
 
+## Sesión 15/11/2022
 
+https://code-projects.org/e-commerce-site-in-php-with-source-code/
 
 ## Contacto
 
